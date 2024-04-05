@@ -15,7 +15,8 @@ This project assesses the correlation between the rate of deforestation in speci
 *Performed logistic regression using **sci-kit learn** and **statsmodels**.
 
 Geoplot of eagle's flight trajectory
-![](https://github.com/arrecto/Portfolio/blob/main/images/eagle_geoplot.png)
+![](https://github.com/arrecto/Portfolio/blob/main/images/eagle_geoplot.png) 
+
 Logistic regression between probability of flight deflection and rate of deforestation.
 ![](https://github.com/arrecto/Portfolio/blob/main/images/eagle_logreg.png)
 ![](https://github.com/arrecto/Portfolio/blob/main/images/eagle_resultprob.png)
