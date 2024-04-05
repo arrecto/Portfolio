@@ -5,7 +5,7 @@ This project aims to provide a computer-aided diagnosis for early detection of o
 
 Current progress:
 
-- Created a software application [PERG Viewer](https://github.com/arrecto/PERGViewer) for reading and pre-processing of eye signals.
+- Created a software application [PERG Viewer](https://github.com/arrecto/PERGViewer) for reading and pre-processing of eye signals using **PySimpleGUI**.
 * Performed initial binary classification (normal vs abnormal) without data filtering using an Artificial neural network (**keras Tensorflow**) and obtained an accuracy of 70-80%.
 * 
 <!--[GUI of PERG Viewer](https://github.com/arrecto/Portfolio/blob/main/images/PERG_Viewer_interface.png)-->
@@ -26,12 +26,12 @@ Logistic regression between probability of flight deflection and rate of defores
 <img src="./images/eagle_logreg.png" width="500" />
 <img src="./images/eagle_resultprob.png" width="500" />
 
-## 3. Modelling the Spread of Rumor Using the SIR Model
+## 3. Modeling the Spread of Rumor Using the SIR Model
 This project aims to create a model that shows the movement of people from one compartment (ignorant, spreader, or stifler) to another in context to the spread of rumor.
 - Solve a differential equation to simulate the movement of rumor.
 * Model the differential equation using the **scipy** library by adjusting different parameters.
 
 <img src="./images/sir_unadjusted.png" width="500" />
-<img src="./images/sir_unadjusted.png" width="500" />
+<img src="./images/sir_adjusted.png" width="500" />
 
 
