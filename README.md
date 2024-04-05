@@ -10,13 +10,13 @@ Current progress:
 
 This is the graphical user interface of PERG Viewer
 <!--[GUI of PERG Viewer](https://github.com/arrecto/Portfolio/blob/main/images/PERG_Viewer_interface.png)-->
-<img src="images/PERG_Viewer_interface.png" width="500" />
+<img src="./images/PERG_Viewer_interface.png" width="500" />
   
 ## 2. Analysis of Deforestation and Flight Tracks of Lesser Spotted Eagles(Clanga pomarina) in Latvia
 This project assesses the correlation between the rate of deforestation in specific areas in Latvia and the probability of eagle's flight track deflection.
 
--Visualized the flight trajectory of eagles using **MATLAB** geoplot.
-*Performed logistic regression using **sci-kit learn** and **statsmodels**.
+- Visualized the flight trajectory of eagles using **MATLAB** geoplot.
+* Performed logistic regression using **sci-kit learn** and **statsmodels**.
 
 Geoplot of eagle's flight trajectory
 <img src="https://github.com/arrecto/Portfolio/blob/main/images/eagle_geoplot.png" width="500" />
