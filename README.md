@@ -6,7 +6,7 @@ This project aims to provide a computer-aided diagnosis for early detection of o
 Current progress:
 
 - Created a software application [PERG Viewer](https://github.com/arrecto/PERGViewer) for reading and pre-processing of eye signals using **PySimpleGUI**.
-* Performed initial binary classification (normal vs abnormal) without data filtering using an Artificial neural network (**keras Tensorflow**) and obtained an accuracy of 70-80%.
+* Performed initial binary classification (normal vs abnormal) without data filtering using an Artificial neural network (**keras Tensorflow**) and obtained an accuracy of around 82% and sensitivity of around 92%.
 
 <img src="./images/PERG_Viewer_interface.png" width="600" />
 
