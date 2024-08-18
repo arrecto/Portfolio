@@ -1,12 +1,11 @@
 # Portfolio
 
-## 1.  (Ongoing) Ocular Disease Classification Using Artificial Neural Network
+## 1. Ocular Disease Classification Using Artificial Neural Network
 This project aims to provide a computer-aided diagnosis for early detection of ocular diseases.
 
-Current progress:
-
 - Created a software application [PERG Viewer](https://github.com/arrecto/PERGViewer) for reading and pre-processing of eye signals using **PySimpleGUI**.
-* Performed initial binary classification (normal vs abnormal) without data filtering using an Artificial neural network (**keras Tensorflow**) and obtained an accuracy of around 82% and sensitivity of around 92%.
+- The maximum accuracy, precision, sensitivity, and specificity of the neural network model exceed 90%.
+- Accepted to present a poster presentation for a national physics conference.
 
 <img src="./images/PERG_Viewer_interface.png" width="600" />
 
